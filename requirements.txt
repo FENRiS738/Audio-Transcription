@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pyannote.audio
+openai-whisper
+pydub
+ffmpeg-python
+torch
+numpy
+python-multipart
